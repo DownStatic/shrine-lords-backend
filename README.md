@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the back-end repository for the Shrinelords application, created collaboratively with @yapjinai. It houses several videos for the shrine backgrounds (included in the src/public folder) as well as a full API of offerings to be seeded (items that can be added to the shrines).
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+API requests should be sent to this through the application front-end found at: https://github.com/yapjinai/shrinelords-frontend
