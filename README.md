@@ -1,5 +1,7 @@
-# README
-
-This is the back-end repository for the Shrinelords application, created collaboratively with @yapjinai. It houses the back-end structure for the application along with the seeds for the Offering models, which are to be used in shrine editing from the front-end.
-
-API requests should be sent to this through the application front-end found at: https://github.com/yapjinai/shrinelords-frontend
+# Backend for Shrinelords
+Live demo available at http://shrinelords.herokuapp.com.
+Frontend repo here: https://github.com/yapjinai/shrinelords-frontend
+## The spiritual and digital merge in this technopagan haven: build and meditate in virtual shrines set in simulated nature.
++ Set up a Ruby on Rails API connecting five models, allowing React front end to persist past states of shrines to users
++ Created Javascript DOM events to manipulate Z-index and size of shrine offerings, mimicking a 3-D space
++ Connected React components as web pages via React Router to for an intuitive user experience
